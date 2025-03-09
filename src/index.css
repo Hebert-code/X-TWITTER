@@ -15,3 +15,7 @@
     --color-twitter-extra-light-gray: #e1e8ed;
     --color-twitter-background: #15202b;
 }
+
+body {
+    @apply bg-twitter-background text-white
+}
